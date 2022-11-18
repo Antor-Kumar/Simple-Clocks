@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.display-time{
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size:40px;
+    background:lightblue;
+    font-weight: 700;
+}
